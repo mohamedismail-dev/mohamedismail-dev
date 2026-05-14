@@ -1,8 +1,10 @@
 # 💫 About Me:
 🔭 Flutter Developer & UI/UX Designer
 
-🚀 Building high-quality cross-platform mobile apps with Flutter.
-🎨 Turning Figma designs into smooth, pixel-perfect experiences.
+🚀 Building high-quality cross-platform mobile apps with Flutter
+
+🎨 Turning Figma designs into smooth, pixel-perfect experiences
+
 💬 Ask me about Flutter, Clean Architecture, BLoC, or Figma.
 
 🏆 Certifications:

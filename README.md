@@ -15,6 +15,7 @@
 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-ismail--dev/)
+
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedmazen994@gmail.com)
 
 
@@ -45,4 +46,3 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-لو

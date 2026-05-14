@@ -1,5 +1,26 @@
 # 💫 About Me:
-Flutter Developer & UI/UX Designer<br><br>🔭🔭 I’m currently working on building high-quality mobile applications using Flutter  <br>👯 I’m looking to collaborate on Flutter apps and UI/UX-driven projects  <br>🤝 I’m looking for help with advanced Flutter architecture and performance optimization  <br>🌱 I’m currently learning clean Flutter architecture, state management, and UI/UX best practices  <br>💬 Ask me about Flutter development, responsive UI, and designing user-centered experiences with Figma  <br>⚡ Fun fact: I enjoy turning Figma designs into smooth, pixel-perfect Flutter apps<br>🏆 Recently completed UI/UX Design Diploma from eyouth Learning (accredited by STEM, 128 hours) – sharpened skills in Figma, user research, and prototyping! Certificate: [View here](certificate-uiux.png)<br><br>📫 How to reach me:<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-ismail--dev/)<br>[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedmazen994@gmail.com)
+🔭 Flutter Developer & UI/UX Designer
+
+🚀 Building high-quality cross-platform mobile apps with Flutter
+🎨 Turning Figma designs into smooth, pixel-perfect experiences
+💬 Ask me about Flutter, Clean Architecture, BLoC, or Figma
+
+🏆 Certifications:
+- Flutter Development Diploma — Route Academy (2026)
+- Build Native iOS & Android Apps with Flutter (2022)
+- UI/UX Design Diploma — eYouth / STEM accredited, 128hrs (2023)
+
+📫 How to reach me:
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)
+
+](https://www.linkedin.com/in/mohamed-ismail--dev/)
+[
+
+![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:mohamedmazen994@gmail.com)
 
 
 ## 🌐 Socials:
